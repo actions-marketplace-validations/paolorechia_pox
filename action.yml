@@ -1,8 +1,8 @@
-name: 'Pox Wait'
-description: 'Wait a designated number of milliseconds'
+name: 'Tox Env'
+description: 'Executes tox with a specific tox environment'
 inputs:
   tox_env:  # id of input
-    description: 'number of milliseconds to wait'
+    description: 'Tox environment that will be used'
     required: true
     default: ''
 outputs:
