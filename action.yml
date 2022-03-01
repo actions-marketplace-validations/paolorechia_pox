@@ -1,4 +1,4 @@
-name: 'Wait'
+name: 'Pox Wait'
 description: 'Wait a designated number of milliseconds'
 inputs:
   tox_env:  # id of input
